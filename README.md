@@ -1,5 +1,5 @@
 # kha-api-mirror
-2020 update of Kha's API documentation
+2020 update of [Kha's](https://github.com/Kode/Kha) API documentation, which is currently severely out of date.
 
 https://zanadev.github.io/kha-api-mirror/pages/index.html
 
